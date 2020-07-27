@@ -1,3 +1,6 @@
+#History#
+Added xsl document for xslt output of useful report information.
+
 # RptToXml #
 
 Dumps a Crystal Reports RPT file to XML. Useful for diffs.
