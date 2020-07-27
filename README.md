@@ -1,5 +1,5 @@
-#History#
-Added xsl document for xslt output of useful report information.
+# History #
+7/27/2020 Added xsl document for xslt output of useful report information.
 
 # RptToXml #
 
